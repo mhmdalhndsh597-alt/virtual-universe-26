@@ -1,4 +1,6 @@
 # GitHub Virtual Universe '26
+## دليل GitHub Virtual Universe لعام 2026
+أدلة عملية ثنائية اللغة لتعلّم أحدث ميزات GitHub وCopilot وبناء المشاريع الحديثة.
 
 Cookbooks to learn how to build with GitHub's latest features.<br>
 Start by downloading the [**GitHub Copilot app**](https://github.com/features/ai/github-app) ✨<br>
